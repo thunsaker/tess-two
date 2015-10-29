@@ -31,3 +31,8 @@ stamp-h1
 
 .idea/
 *.iml
+
+# Gradle files
+.gradle/
+build/
+/*/build/
