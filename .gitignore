@@ -28,3 +28,6 @@ configure
 libtool
 tesseract.pc
 stamp-h1
+
+.idea/
+*.iml
