@@ -6,3 +6,6 @@
 /jni/com_googlecode_tesseract_android/src/tessdata/**
 /jni/com_googlecode_tesseract_android/src/vs2008/**
 /jni/com_googlecode_tesseract_android/src/vs2010/**
+
+# Local configuration file (sdk path, etc)
+local.properties
